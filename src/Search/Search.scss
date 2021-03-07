@@ -1,16 +1,7 @@
 body {
-  background: #000000; /* fallback for old browsers */
-  background: -webkit-linear-gradient(
-    to right,
-    #434343,
-    #000000
-  ); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(
-    to right,
-    #434343,
-    #000000
-  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+  background: #000000;
+  background: -webkit-linear-gradient(to right, #434343, #000000);
+  background: linear-gradient(to right, #434343, #000000);
   margin: 2%;
 }
 .container-fluid {
@@ -38,43 +29,11 @@ body {
   }
 }
 .title {
-  /* font-family: "Bodoni Moda", serif;
-   */
   font-family: "Heebo", sans-serif;
   font-size: 3rem;
   text-align: center;
   color: whitesmoke;
-  /* max-width: 800px; */
 }
-/* input {
-  height: 2rem;
-  font-size: 1.5rem;
-  padding-left: 10px;
-}
- */
-/* form {
-  display: block;
-  left: 50%;
-  position: absolute;
-  top: 30%;
-  input[type="search"] {
-    border: solid 3px #fff;
-    box-sizing: border-box;
-    font-size: 2em;
-    height: 2em;
-    margin-left: -15vw;
-    outline: solid #fc0 0;
-    padding: 0.5em;
-    transition: all 2s ease-in;
-    width: 30vw;
-    z-index: 1;
-    &:focus {
-      border: solid 3px #09f;
-      outline: solid #fc0 2000px;
-    }
-  }
-}
- */
 
 .countries {
   font-family: "Heebo", sans-serif;
@@ -83,7 +42,6 @@ body {
   flex-wrap: wrap;
   justify-content: center;
   .name {
-    /* border: 2px solid #d4b5b0; */
     background-color: whitesmoke;
     border-radius: 12%;
     width: 15rem;
