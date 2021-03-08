@@ -29,7 +29,7 @@ class Search extends Component {
     return (
       <div className="container-fluid">
         <div className="search">
-          <img className="virus" src={Virus} />
+          <img className="virus" src={Virus} alt="logo" />
           <h2 className="title">
             Coronavirus Pandemic (COVID-19) Stats by Country
           </h2>
