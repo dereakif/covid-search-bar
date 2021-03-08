@@ -5,7 +5,6 @@
 - [General info](#general-info)
 - [Technologies](#technologies)
 - [Setup](#Setup)
-  > > > > > > > 3e8859f9ddeffab7e161dd31726a2207fb42adec
 
 ## General info
 
