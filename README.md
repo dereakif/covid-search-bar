@@ -22,3 +22,5 @@ To start project run;
 npm install
 npm run start
 ```
+
+## [Live demo](https://covid-search-bar.vercel.app/)
