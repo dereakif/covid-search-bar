@@ -27,7 +27,7 @@ class Search extends Component {
         .includes(this.state.searchTerm.toLowerCase());
     });
     return (
-      <div className="container-fluid">
+      <div>
         <div className="search">
           <img className="virus" src={Virus} alt="logo" />
           <h2 className="title">
